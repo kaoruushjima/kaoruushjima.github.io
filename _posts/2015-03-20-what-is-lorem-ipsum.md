@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "What is Lorem Ipsum?"
-description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+title: "제가 배우는 것, 배웠던 점을 적을 예정입니다."
 comments: true
-keywords: "dummy content, lorem ipsum"
+description: "first test"
+keywords: "first, test"
 ---
-test 테스트 잘되는지 
+"안녕하세요. 잘 부탁드립니다. :)
+꾸준히 글을 써서 사람들에게 유익한 정보가 되었으면 좋겠습니다."
